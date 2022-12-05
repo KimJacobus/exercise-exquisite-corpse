@@ -1,2 +1,2 @@
-# exercise-exquisite-corpse
-exercice Cadavre Exquis
+# Cadavre Exquis - Laurent
+
